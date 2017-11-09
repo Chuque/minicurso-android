@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="card_colors">
+        <item name="cardGreen">#A5D6A7</item>
+        <item name="cardRed">#FFAB91</item>
+        <item name="cardBlue">#81D4FA</item>
+        <item name="cardPurple">#B39DDB</item>
+    </string-array>
+</resources>
